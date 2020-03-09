@@ -1,0 +1,1 @@
+swasm_execSmileyasm(new Uint8Array([11,0,22,0,11,1,0,0,11,2,3,0,11,4,3,0,11,5,4,0,1,2,1,5,16,0,0,0]),globalCb)
