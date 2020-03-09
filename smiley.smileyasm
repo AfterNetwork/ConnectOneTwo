@@ -1,0 +1,7 @@
+writestatic 0 22 0 // test var
+writestatic 1 0 0  // pointer -> test var
+writestatic 2 3 0  // pointer -> result
+writestatic 4 3 0  // test var 2
+writestatic 5 4 0  // pointer -> test var 2
+xor 2 1 5          // set pointer 2 to (pointer 1 xor pointer 4)
+call 0 0 0         // call js-level function
