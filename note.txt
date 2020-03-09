@@ -1,0 +1,95 @@
+--- DAY 3 -------
+sounds weird.
+well...
+you can make a thing...
+that sends an arbitrary get request to a server
+what does that even mean
+well...........................................
+it means:
+you can fetch a custom url... it doesnt care if it is an image or not... on scratch
+
+i saw that on advanced topics already you use wikimedia.
+ye
+but
+BUT
+i use it to see which audiences are viewing my posts
+ok show me the website.
+there is none
+its a custom thing i made, for my own siggy
+
+can i see the image?
+the image is just an svg with the date
+BUT
+it logs the request on the server
+oh.....
+ok so can you do me a favor?
+one for ur own siggy?
+no. A website for analytics for all users. We could possibly create a program where users opt in to see their audience for viewrs and stuff
+(basicly youtube analytics for scratch.)
+hmm
+
+
+*X-FORWARDED-FOR, LOGGING, COUCHDB*
+hmm
+idk
+:|
+but i can make one for u
+ok why not.
+its hard
+well imma code the thing a bit
+ok so 
+do u want
+a siggy
+audience viewer
+
+----- BEYOND THIS POINT CONNECTONETWO DISCUSSION ONLY -----
+Ok. so frontend on connectonetwo?
+smiley???????
+ye?
+hey can you thank me
+for?
+custom domains lol
+wot?
+im so confusion
+just do the thanking im going to install nordvpn wait a min
+why a vpn?
+im on my school computer....
+o
+rip
+omg
+oof
+moment
+:/
+wake up the project
+ok
+ok
+wait
+it install
+ok. im on nordvpn now
+ok
+ok
+OK DO FRONTEND SO IT LOOKS GOOD AND THEN MOVE IT TO GITHUNB
+i am not a robot
+i have a life too
+:/
+so... can you thank me????
+about what?
+thank me on my icon.....
+what reason?
+i dunno custom domains.
+the thanking system doesnt work like that
+:/
+oof.
+but i really want to see front end, and also can you turn this over to GH?
+yes...
+ok then do it please.
+we both are copyright holders
+ok?
+ok.
+bsd-3?
+no. it's going to be closed-source.
+anyways can you help me with the ScratchBux Blockchain? lol
+oh sure
+maybe propriteary license? (sry i cant spell lol im not native american)
+umm yeah propiteary license.
+i will license the compiler to myself
